@@ -4,62 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "68a9d7fa4a0844e6",
+        "id": "f494d95d6c139de2",
         "type": "leaf",
-        "dimension": 57.82442748091603,
+        "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "33582a35f7136fca",
-        "type": "split",
-        "dimension": 42.17557251908397,
-        "children": [
-          {
-            "id": "0d52586988a8250d",
-            "type": "leaf",
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "456df49d807374b7",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "4.md",
-                "options": {
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1
-                }
-              }
-            }
+          "type": "markdown",
+          "state": {
+            "file": "PART XIV - SERVICES UNDER THE UNION AND THE STATES.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -86,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "freedom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,13 +48,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "5868b3790c774c84",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 196,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "b1590ea3f9d4280f",
@@ -116,12 +77,33 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.md",
+                "file": "PART XIV - SERVICES UNDER THE UNION AND THE STATES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b746242b1359fe7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e3283993686835b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PART XIV - SERVICES UNDER THE UNION AND THE STATES.md"
               }
             }
           }
@@ -133,15 +115,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "4.md",
-    "275.md",
-    "394.md",
-    "388.md",
-    "394A.md",
-    "373.md",
-    "392.md",
-    "328.md",
-    "0.md",
-    "345.md"
+    "PART XIV - SERVICES UNDER THE UNION AND THE STATES.md",
+    "PART III - FUNDAMENTAL RIGHTS.md",
+    "Right to Constitutional Remedies.md",
+    "Saving of Certain Laws.md",
+    "Right to Freedom.md",
+    "Cultural and Educational Rights.md",
+    "Right against Exploitation.md",
+    "Right to Freedom of Religion.md",
+    "31.md",
+    "Right to Equality.md"
   ]
 }

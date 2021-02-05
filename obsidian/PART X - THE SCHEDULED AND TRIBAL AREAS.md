@@ -1,0 +1,2 @@
+[[244]]. Administration of Scheduled Areas and tribal areas
+[[244A]]. Formation of an autonomous State comprising certain tribal areas in Assam and creation of local Legislature or Council of Ministers or both therefor
